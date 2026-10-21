@@ -1,0 +1,5 @@
+apache-flink==1.18.0
+h3==3.7.7
+pandas==2.2.2
+sqlalchemy==2.0.30
+requests==2.32.3
